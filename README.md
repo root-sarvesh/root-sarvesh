@@ -1,4 +1,4 @@
-<table border="0" cellpadding="0" cellspacing="0">
+<table style="border:none cellpadding=0; cellspacing=0;">
   <tr>
     <td align="center" style="border:none; padding:0;">
       <img
