@@ -1,23 +1,13 @@
-<table style="border:none cellpadding=0; cellspacing=0;">
-  <tr>
-    <td align="center" style="border:none; padding:0;">
-      <img
-        src="https://avatars.githubusercontent.com/root-sarvesh?s=200"
-        alt="Sarvesh’s Avatar"
-        height="120"
-        style="border-radius:60px;"
-      />
-    </td>
-    <td valign="middle" style="border:none; padding-left:16px;">
-      <h1>👋 Hello there, I’m Sarvesh</h1>
-      <p>
-        I’m a curious tech explorer 🚀, passionate about web development,<br/>
+ <h1>
+      👋 Hello there, I’m Sarvesh
+      </h1>
+      
+ <p>
+        I’m a curious tech explorer 🖥️, passionate about web development,<br/>
         open-source and Linux enthusiast. I love building things<br/>
         that solve real-world problems, and I’m a low-key philosopher 🧠.
-      </p>
-    </td>
-  </tr>
-</table>
+  </p>
+
 
 
 
