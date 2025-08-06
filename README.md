@@ -37,7 +37,7 @@
 - 🖥️ **Terminal Portfolio** – A quirky JS-only portfolio that runs in the browser like a terminal.  
 - 📘 **Smart PDF Viewer** – Click on any word and get its meaning instantly (built for struggling students).  
 - ♠️ **Poker Game** – Multiplayer poker logic built in C with SFML (because who doesn’t like cards?).  
-- 🌍 **Learning Security** – Currently working on vulnerabilities like missing headers and XSS attacks on my test site.
+- 🌍 **Learning Security** – Currently learning about Cyber Security.
 
 ---
 
