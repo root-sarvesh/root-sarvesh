@@ -63,7 +63,7 @@
 
 <p align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge&logo=google-chrome)](https://root-sarvesh.github.io/terminal-website/)  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge&logo=google-chrome)](https://my-portfolio-sable-theta-40.vercel.app/)  
   
   [![Instagram](https://img.shields.io/badge/Instagram-%40sarvesh__kp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sarvesh__kp) 
   
