@@ -1,5 +1,5 @@
  <h1>
-      👋 Hello there, I’m Sarvesh
+      Hello there, I’m Sarvesh
       </h1>
       
  <p>
@@ -14,7 +14,7 @@
 
 
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="left">
   <img alt="HTML5"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"         width="30" hspace="8" />  
@@ -35,7 +35,7 @@
 
 ---
 
-## 🔥 Projects
+## Projects
 
 - 🖥️ **Terminal Portfolio** – A quirky JS-only portfolio that runs in the browser like a terminal.  
 - 📘 **Smart PDF Viewer** – Click on any word and get its meaning instantly (built for struggling students).  
@@ -44,7 +44,7 @@
 
 ---
 
-## 🚀 GitHub Insights
+## GitHub Insights
 
 <p align="center">
   <!-- Overall GitHub Stats -->
@@ -62,7 +62,7 @@
 </p>
 
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center">
   
@@ -76,4 +76,4 @@
 
 ---
 
-_✨ Let’s build, break, and learn something awesome together!_
+_Let’s build, break, and learn something awesome together!_
